@@ -76,16 +76,16 @@ img {
 
 
 /*  sm btn styles  */
-.twitter-btn {
+.instagram-btn {
   position: fixed; margin: auto;
   bottom: 0;
-  background-color: #1da1f2;
-  border: 0.15em solid #1da1f2;
+  background-color: #e71df2;
+  border: 0.15em solid #ee1aaf;
    border-left: none;
   border-bottom: none;
   border-radius: 0% 100% 0% 0% / 0% 100% 0% 93% ;
-    height: 50px;
-  width: 50px;
+    height: 100px;
+  width: 100px;
   cursor: pointer;
 }
 .in-btn {
@@ -96,27 +96,27 @@ img {
   border-bottom: none;
   border-radius: 100% 0% 0% 0% / 100% 0% 0% 0% ;
   background-color: #0072b1;
-    height: 50px;
-  width: 50px;
+    height: 100px;
+  width: 100px;
   cursor: pointer;
 }
-.fa-twitter {
+.fa-instagram {
   position: absolute;
-  left: 0em; right: .4em; top: .7em; bottom: 0;
+  left: 0em; right: 3em; top: 3em; bottom: 0;
   color: #fff;
   font-size: 1.8em;
 }
-.fa-linkedin-in {
+.fa-instagram-in {
    position: absolute;
   left: .4em; right: 0em; top: .7em; bottom: 0;
   color: #fff;
   font-size: 1.8em;
 }
 .in-btn:hover {
- background-color: #000;
+ background-color: #c3e7ed;
 }
-.twitter-btn:hover {
-  background-color: #000;
+.instagram-btn:hover {
+  background-color: #cae0f3;
 }
 
 /* made with love */
